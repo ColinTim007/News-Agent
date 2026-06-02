@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-02 09:07
+**最后更新时间**: 2026-06-02 12:13
+
+---
+
+## 🆕 最新更新 (2026-06-02 12:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？](https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html)
+**发布时间**: 2026-06-02 18:08
+
+#### [20款游戏防沉迷实测拉开差距，家长用好管理工具成关键](https://www.leiphone.com/category/industrynews/wE6cbVFYNVjCvx4G.html)
+**发布时间**: 2026-06-02 18:07
+
+#### [Momenta高阶自动驾驶示范应用许可落地新城市 Robotaxi全球布局加速](https://www.leiphone.com/category/industrynews/FnNWmRGGBxasmJ9I.html)
+**发布时间**: 2026-06-02 17:28
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手](https://www.qbitai.com/2026/06/427810.html)
+**发布时间**: 2026-06-02 09:28
 
 ---
 

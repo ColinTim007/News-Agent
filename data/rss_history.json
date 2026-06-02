@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8de1d6f83ba5753a2f0210e716576d42fc509ccc1295ec7dd84e31a61e494043": {
-        "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
-        "link": "http://www.geekpark.net/news/363698",
-        "published_date": "Sun, 03 May 2026 08:42:00 GMT",
-        "first_seen": "2026-05-03T09:25:18.509291"
-      },
-      "9825797b175951f8790d7f0b208dd2d915f777c98d1823641e683a7da4d6c815": {
-        "title": ".NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了",
-        "link": "https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 03 May 2026 12:58:00 GMT",
-        "first_seen": "2026-05-03T09:25:18.509298"
-      },
-      "7d73499fd3ceddebd259e74201cb6a59bf225aa9de95d72856fed064de744aec": {
-        "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
-        "link": "http://www.geekpark.net/news/363699",
-        "published_date": "Sun, 03 May 2026 08:44:00 GMT",
-        "first_seen": "2026-05-03T09:25:18.509300"
-      },
-      "c83aa02ecb41f2c80459fce0d4dfa2fffdb040cb3e89b8ee3c4afce443f0f71f": {
-        "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
-        "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 03 May 2026 13:37:00 GMT",
-        "first_seen": "2026-05-03T09:25:18.509302"
-      },
-      "7f1b8d04c74e7dc48529babd5e9bdb90fb43804a236aedd27e659fa417bf5e43": {
-        "title": "AWS越赚，Amazon越穷",
-        "link": "https://www.tmtpost.com/7975633.html",
-        "published_date": "Sun, 03 May 2026 09:14:00 GMT",
-        "first_seen": "2026-05-03T09:25:18.509304"
-      },
       "04ad78df60d7c8fa8ee9cfc1aa966986297415d0a295421fe09c374face73707": {
         "title": "使用AWS Lambda Extensions在响应后执行遥测刷写",
         "link": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
@@ -2641,6 +2611,66 @@
         "link": "https://sspai.com/post/110592",
         "published_date": "Tue, 02 Jun 2026 08:03:00 GMT",
         "first_seen": "2026-06-02T09:10:07.079818"
+      },
+      "8e106f6d27c031e99102500330cf98ac5e8bd28f42c8db0fd96bf4799fcaec14": {
+        "title": "The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy",
+        "link": "https://www.tmtpost.com/8011677.html",
+        "published_date": "Tue, 02 Jun 2026 17:23:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113551"
+      },
+      "8d7ffd4bc5af3b841090821bb8fa8e721e4a2ab3abd99b9f35b15587385ffa83": {
+        "title": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "link": "https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 18:44:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113558"
+      },
+      "7a1a2e4fe38bf6592b9eae2d1ce3c37d2c9e72108f1a02f2f1e3093fcebb809a": {
+        "title": "Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训",
+        "link": "https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 17:07:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113560"
+      },
+      "8acbdedf476b2cc721ea40ff46d8f12f06b60b3dfb4019669b31dec9e546a019": {
+        "title": "LinkedIn 如何发现导致系统反复死机的内核锁竞争问题",
+        "link": "https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 19:03:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113561"
+      },
+      "5aedb494c4c07dbd31a09eb4eb4d4d785c7b68d12deb2aaff825aeff1849325e": {
+        "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
+        "link": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 16:57:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113562"
+      },
+      "3f5c4f3eacf66608e4b9b93c6602828b9292e115adebbfd457b1294782c13105": {
+        "title": "身价13亿美元的OpenRouter，国内学不了？",
+        "link": "https://www.tmtpost.com/8010622.html",
+        "published_date": "Tue, 02 Jun 2026 11:50:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113563"
+      },
+      "cfb06bf20bb77511b976914e3972c54bdc7c77017621323cade45f70a3c043cc": {
+        "title": "上海人工智能实验室青年科学家何聪辉确认出席AICon上海站，分享面向 Agent 时代的文档解析基础设施演进与实践",
+        "link": "https://www.infoq.cn/article/6X2S5ssDaDh0REOsfGtg?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113565"
+      },
+      "d06aad102daa7274749716e292e24747a31043dd748c84f8f44feed5dc385e11": {
+        "title": "不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown",
+        "link": "https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 17:09:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113566"
+      },
+      "f224456696076a2365113b0592bc5d2b5af828a4d3a6bd7d3cf6a87c67ce389a": {
+        "title": "10万亿！中国正成为AI基建狂魔",
+        "link": "https://www.tmtpost.com/8011257.html",
+        "published_date": "Tue, 02 Jun 2026 17:26:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113567"
+      },
+      "eb078b4ce0beafa5547af52cd0ebbb089b5b795835ea8916ec470803e5a40291": {
+        "title": "拓竹被“猎巫”，中国品牌出海进入舆论战时代",
+        "link": "https://www.tmtpost.com/8006580.html",
+        "published_date": "Tue, 02 Jun 2026 16:47:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.113568"
       }
     },
     "Finance": {
@@ -4965,15 +4995,63 @@
         "link": "https://www.ft.com/content/1a32ad0f-c8b3-4b91-a931-5dc053c6c214",
         "published_date": "Tue, 02 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-02T09:10:08.339933"
+      },
+      "b01e9ca6f87c798bf036f969daf633ca6122f98d20874ee889b794fea3e60abd": {
+        "title": "One way to get hired right now: Be willing to go to the office five days a week",
+        "link": "https://www.marketwatch.com/story/one-way-to-get-hired-right-now-be-willing-to-go-to-the-office-five-days-a-week-715be041?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 12:00:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155230"
+      },
+      "0fc480fd34c8cfdbbd9cb11165116f80a99e2d98abc5bdd71bd22cd54da999ba": {
+        "title": "Oil prices drop after Trump tries to reassure traders that peace deal is coming",
+        "link": "https://www.marketwatch.com/story/oil-prices-drop-after-trump-tries-to-reassure-traders-that-peace-deal-is-coming-c28af17b?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 11:57:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155239"
+      },
+      "1324cfcc73feb38f8dd727fa1099ac4c3df857989157645b8b64ecbd83dde98e": {
+        "title": "Why the most important company enabling AI isn’t Nvidia, according to this fund manager",
+        "link": "https://www.marketwatch.com/story/why-the-most-important-company-to-enable-ai-isnt-nvidia-according-to-this-fund-manager-8cb2b9f5?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 11:44:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155241"
+      },
+      "349e1f4cf41e2b5f6695a5a05d4a1c96a10603c6c86c9c17a212921d3f9c7238": {
+        "title": "How gold overtook U.S. Treasurys as number-one reserve asset",
+        "link": "https://www.marketwatch.com/story/gold-is-an-awkward-asset-for-central-banks-to-hold-its-now-moved-ahead-of-u-s-debt-anyway-b06733d3?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 11:03:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155242"
+      },
+      "6911f0037a8486b030e9c579d85792a7b2063a0ef8488a9ddb9224ff04616546": {
+        "title": "I am 71. Would it be foolish to sell $10,000 in stock to visit my grandchildren in Thailand?",
+        "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 10:30:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155243"
+      },
+      "e38dadf751b94dcc8326fc4dc39ca013ddf953d4f3b1c31d025e0126309c1273": {
+        "title": "My sister, mother and I are giving my son $20,000 toward a down payment. Do we report it to the IRS?",
+        "link": "https://www.marketwatch.com/story/my-sister-mother-and-i-are-giving-my-son-20-000-toward-a-down-payment-do-we-report-it-to-the-irs-a20f2408?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 10:15:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155244"
+      },
+      "1a086c82e7dd88c3692292cedebdbe269529896aa537697884457147ec241fb0": {
+        "title": "Nvidia’s Huang said Marvell could join the trillion-dollar club — and the stock immediately surges",
+        "link": "https://www.marketwatch.com/story/nvidias-huang-said-marvell-could-join-the-trillion-dollar-club-and-the-stock-immediately-surges-39c31f03?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 09:53:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155246"
+      },
+      "53a88b1f9e4d5b1a5d1e7a0383b540607a2ee3c7f0bb2bc51535ace16aac4c82": {
+        "title": "Why young America is trending socialist",
+        "link": "https://www.ft.com/content/d6b1adcc-a614-4af8-8aa4-56d5c39a42a0",
+        "published_date": "Tue, 02 Jun 2026 11:27:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155247"
+      },
+      "6c59a96778d046b7cee54972dc1456b36675d477fe6149f2fea473a0da608673": {
+        "title": "Eurozone inflation rises to 3.2% in May as ECB prepares to raise rates",
+        "link": "https://www.ft.com/content/9b7b03f2-c71e-4424-855d-f147a0a5d8e5",
+        "published_date": "Tue, 02 Jun 2026 09:35:00 GMT",
+        "first_seen": "2026-06-02T12:18:02.155249"
       }
     },
     "Ai": {
-      "fd00e47de3e06d668360da453e3ddb4524be2d2f2a46b989927f5eb4c10177e0": {
-        "title": "OpenAI参与，重卷ImageNet：终于把FID做成训练",
-        "link": "https://www.qbitai.com/2026/05/412882.html",
-        "published_date": "Sun, 03 May 2026 07:50:00 GMT",
-        "first_seen": "2026-05-03T09:25:00.054478"
-      },
       "926d1d2feca13d5f7c3e0c62411be4c0117bcbc89bcdb0ed1bbbca34bc373451": {
         "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
         "link": "https://www.qbitai.com/2026/05/412080.html",
@@ -6563,13 +6641,73 @@
         "link": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
         "published_date": "Tue, 02 Jun 2026 06:00:00 GMT",
         "first_seen": "2026-06-02T09:10:05.476563"
+      },
+      "1a60b527f73251ac458474f0a37b580159ecd211b6c4ef8acd74c9dcae11862a": {
+        "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "link": "https://www.qbitai.com/2026/06/427810.html",
+        "published_date": "Tue, 02 Jun 2026 09:28:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865391"
+      },
+      "04863d33c740ffc5ba7d5c2b7bcdf93078552171e93f638f81462def99580055": {
+        "title": "千觉机器人亮相 ICRA 2026 Workshop：面向真实世界操作，机器人需要一套“触觉底座”",
+        "link": "https://www.leiphone.com/category/robot/Ss8tddP1aKt5qqdo.html",
+        "published_date": "Tue, 02 Jun 2026 10:28:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865405"
+      },
+      "cfb710ee06ee51701f5cd30afd245e9131e0457982ba4978f644f2d8bdf64cce": {
+        "title": "独家｜前小米崔宝秋低调创业，揭开家庭机器人的最优解",
+        "link": "https://www.leiphone.com/category/ai/09QWfOVoTbKrJfIH.html",
+        "published_date": "Tue, 02 Jun 2026 10:16:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865407"
+      },
+      "5a549f160e2121c4f69cfeede6babec5fa83f111f0c2395f2df5877c410d15b3": {
+        "title": "曝豆包6月下旬正式付费；贾跃亭及乐视控股，被恢复执行26亿元；英伟达正式进军个人电脑芯片市场，正面挑战英特尔；73天！宇树科技IPO过会",
+        "link": "https://www.leiphone.com/category/zaobao/yAJQisxWU7cumsJk.html",
+        "published_date": "Tue, 02 Jun 2026 11:24:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865409"
+      },
+      "14b86470295a7816dc813b77e44c09dcfa2ebcedf91f0659fbe417579c8bb990": {
+        "title": "AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？",
+        "link": "https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html",
+        "published_date": "Tue, 02 Jun 2026 18:08:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865411"
+      },
+      "f790b70996f7d9d5161a58bff78910204df3fc26ae0fd61f80a5e5db7906af93": {
+        "title": "Momenta高阶自动驾驶示范应用许可落地新城市 Robotaxi全球布局加速",
+        "link": "https://www.leiphone.com/category/industrynews/FnNWmRGGBxasmJ9I.html",
+        "published_date": "Tue, 02 Jun 2026 17:28:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865412"
+      },
+      "6ff3ff83accc5f7e4dbc92a592e4a8143f78d43046af4291740b77a30dd0dfa4": {
+        "title": "从「只够发一个月工资」到营收5亿，零一汽车做对了什么？",
+        "link": "https://www.leiphone.com/category/transportation/YWDYr6e3rN64B5IF.html",
+        "published_date": "Tue, 02 Jun 2026 11:06:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865413"
+      },
+      "5116426e3670f9c41099e0e7efb4b89d75d6e092d82799502b615d39fed7b12f": {
+        "title": "理想停产最赚钱的车，交出一份「反内卷」的财报",
+        "link": "https://www.leiphone.com/category/transportation/x3ymsavV9YAtMx7C.html",
+        "published_date": "Tue, 02 Jun 2026 10:01:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865415"
+      },
+      "a0398d4d0d3f4ebe78feef91f967c957b127a815c1c0d37d63b9cb8a3015234d": {
+        "title": "2026中国AI智能体领航者揭晓，见证智能体应用爆发元年",
+        "link": "https://www.leiphone.com/category/industrynews/VEQzCEDU0APjbVou.html",
+        "published_date": "Tue, 02 Jun 2026 14:35:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865416"
+      },
+      "d1ceab07b7e94b03f2197691eb76ef138f0953a3c95be8e2cdd9c1e2b5a2ff6c": {
+        "title": "2026-06-02日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-02/",
+        "published_date": "Tue, 02 Jun 2026 10:57:00 GMT",
+        "first_seen": "2026-06-02T12:18:00.865418"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-02T09:10:07.079821",
-    "Finance": "2026-06-02T09:10:08.339935",
-    "Ai": "2026-06-02T09:10:05.476565"
+    "Technology": "2026-06-02T12:18:02.113570",
+    "Finance": "2026-06-02T12:18:02.155250",
+    "Ai": "2026-06-02T12:18:00.865420"
   }
 }

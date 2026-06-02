@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 09:10
+**最后更新时间**: 2026-06-02 12:17
+
+---
+
+## 🆕 最新更新 (2026-06-02 12:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [One way to get hired right now: Be willing to go to the office five days a week](https://www.marketwatch.com/story/one-way-to-get-hired-right-now-be-willing-to-go-to-the-office-five-days-a-week-715be041?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 12:00
+
+#### [Oil prices drop after Trump tries to reassure traders that peace deal is coming](https://www.marketwatch.com/story/oil-prices-drop-after-trump-tries-to-reassure-traders-that-peace-deal-is-coming-c28af17b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 11:57
+
+#### [Why the most important company enabling AI isn’t Nvidia, according to this fund manager](https://www.marketwatch.com/story/why-the-most-important-company-to-enable-ai-isnt-nvidia-according-to-this-fund-manager-8cb2b9f5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 11:44
+
+#### [How gold overtook U.S. Treasurys as number-one reserve asset](https://www.marketwatch.com/story/gold-is-an-awkward-asset-for-central-banks-to-hold-its-now-moved-ahead-of-u-s-debt-anyway-b06733d3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 11:03
+
+#### [I am 71. Would it be foolish to sell $10,000 in stock to visit my grandchildren in Thailand?](https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 10:30
+
+#### [My sister, mother and I are giving my son $20,000 toward a down payment. Do we report it to the IRS?](https://www.marketwatch.com/story/my-sister-mother-and-i-are-giving-my-son-20-000-toward-a-down-payment-do-we-report-it-to-the-irs-a20f2408?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 10:15
+
+#### [Nvidia’s Huang said Marvell could join the trillion-dollar club — and the stock immediately surges](https://www.marketwatch.com/story/nvidias-huang-said-marvell-could-join-the-trillion-dollar-club-and-the-stock-immediately-surges-39c31f03?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 09:53
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Why young America is trending socialist](https://www.ft.com/content/d6b1adcc-a614-4af8-8aa4-56d5c39a42a0)
+**发布时间**: 2026-06-02 11:27
+
+#### [Eurozone inflation rises to 3.2% in May as ECB prepares to raise rates](https://www.ft.com/content/9b7b03f2-c71e-4424-855d-f147a0a5d8e5)
+**发布时间**: 2026-06-02 09:35
+
+#### [How Deutsche Bank learned to stop chasing America](https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec)
+**发布时间**: 2026-06-02 04:00
+
+#### [Sea of tents in heart of Beirut lays bare Lebanon’s crisis](https://www.ft.com/content/597a5501-c583-4868-b3e5-4137e2d0dbf5)
+**发布时间**: 2026-06-02 04:00
+
+#### [Top AI labs expand research into machine ‘consciousness’](https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc)
+**发布时间**: 2026-06-02 04:00
 
 ---
 
