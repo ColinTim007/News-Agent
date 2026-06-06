@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f22a0012b587263f771d8bbabe17ec98151c8806ca11d1be0d01b214dc1dd75a": {
-        "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
-        "link": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 15:29:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566012"
-      },
-      "17d424d14e0af36d045e44e9688fcc801c87f407ec58e7a9d39f350d21bbf97b": {
-        "title": "Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险",
-        "link": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 15:02:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566019"
-      },
-      "04cfff64b9c373629ba3b87b3fe8daa7e74dc157348f21126eb98fc80b51ecbb": {
-        "title": "英伟达入场！4亿美元融资背后，RISC-V迎来春天",
-        "link": "https://www.tmtpost.com/7978288.html",
-        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566021"
-      },
-      "3e9d80a3fd029c4222161d44d577e927a35ba25afe9071fc88bc6314dfe95965": {
-        "title": "硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！",
-        "link": "https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 14:58:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566023"
-      },
-      "d89511eb2dfa1ffd2642814e243a9710f72aa21fe5c443166e7683e2e331b59c": {
-        "title": "关节突围：中国具身智能减速器“爆单”",
-        "link": "https://www.tmtpost.com/7978543.html",
-        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566024"
-      },
       "b57ac7e5d22028e3e2a037acd1fdebe611042c51ac6e8eff088f5e57aa446278": {
         "title": "传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道",
         "link": "http://www.geekpark.net/news/363775",
@@ -3547,6 +3517,60 @@
         "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 06 Jun 2026 09:00:00 GMT",
         "first_seen": "2026-06-06T07:44:45.255000"
+      },
+      "cce55a5b5b54e98f0358c191bbb0a47c0f05cd9212a085643f7b5bec0e4b9fef": {
+        "title": "新势力车企，正在悄悄变成一家AI公司",
+        "link": "https://www.tmtpost.com/8017671.html",
+        "published_date": "Sat, 06 Jun 2026 17:08:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922877"
+      },
+      "e9c1892cc4516d79c5b05f1a69abe65f467b3f8afa8fc3e9968fdd3adb271a59": {
+        "title": "Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型",
+        "link": "https://www.tmtpost.com/8017665.html",
+        "published_date": "Sat, 06 Jun 2026 17:06:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922887"
+      },
+      "6a77cf93f1a7f9bf39e69d50b2d5c5e86cf1aa28efff84449f31e1d02ac8241d": {
+        "title": "一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？",
+        "link": "https://www.tmtpost.com/8017669.html",
+        "published_date": "Sat, 06 Jun 2026 17:06:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922890"
+      },
+      "1904e546170d10dab80d9a747557414a3f90f6c6eff3f9770fa3125a939e2985": {
+        "title": "哈根达斯“下嫁”柠季，千亿冰淇淋市场，迎来搅局者",
+        "link": "https://www.tmtpost.com/8017608.html",
+        "published_date": "Sat, 06 Jun 2026 17:02:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922892"
+      },
+      "dc099b030360d78a74b5a3d380e8bdd276cd792de851658d4a2326fef11d5e4f": {
+        "title": "银发留学：教育的“皮”，文旅的“骨”",
+        "link": "https://www.tmtpost.com/8017600.html",
+        "published_date": "Sat, 06 Jun 2026 17:02:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922894"
+      },
+      "2126aceeb22d277c4943f2fc6e8aa25c7df733fb8a95d60b101d723d34a823d8": {
+        "title": "哈根达斯“卖身”与阿迪达斯翻红：外资光环褪色后的生存法则",
+        "link": "https://www.tmtpost.com/8016596.html",
+        "published_date": "Sat, 06 Jun 2026 16:57:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922895"
+      },
+      "fe4c4d6cd66278b625a3ec70c984b231e6072805e782bc34da95f792d4d05245": {
+        "title": "6只可能在世界杯期间受益的股票",
+        "link": "https://www.tmtpost.com/8017636.html",
+        "published_date": "Sat, 06 Jun 2026 13:00:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922897"
+      },
+      "8b7bf9da3f891065d23d05c56798195aff20d3c0548a8655271d8e9c11038d9b": {
+        "title": "微软股价走势脆弱，疲软态势或将带动软件股集体走弱",
+        "link": "https://www.tmtpost.com/8017629.html",
+        "published_date": "Sat, 06 Jun 2026 12:53:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922898"
+      },
+      "961a1aa8ee2ff425b679c67654c8ee72f08be5b970f260c3934527a9f1234542": {
+        "title": "让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534341&idx=1&sn=6955eb57829cafee5f82c0a7b0b2d6d1",
+        "published_date": "Sat, 06 Jun 2026 11:32:00 GMT",
+        "first_seen": "2026-06-06T09:58:34.922900"
       }
     },
     "Finance": {
@@ -6234,36 +6258,6 @@
       }
     },
     "Ai": {
-      "a765316395f4dee0598b4bc5fdc865362e50138c3e74de7aee22a5d559a8d8d5": {
-        "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
-        "link": "https://www.qbitai.com/2026/05/413604.html",
-        "published_date": "Thu, 07 May 2026 04:36:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.896994"
-      },
-      "95fc7fc02ae828be0b1bd81dff53146111283eaa45736e6bc406a20ee08b4180": {
-        "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
-        "link": "https://www.qbitai.com/2026/05/413569.html",
-        "published_date": "Thu, 07 May 2026 01:13:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897001"
-      },
-      "046eb186198cdfe0864bfebaad743386b3a7bf9d78d8f8e381b9e14db6e4020f": {
-        "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-        "link": "https://www.qbitai.com/2026/05/413613.html",
-        "published_date": "Thu, 07 May 2026 06:29:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897003"
-      },
-      "094875b77dc8239aa6b15ed614a883514584d31cdcc6b9e0fe44437c90d75c1f": {
-        "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-        "link": "https://www.qbitai.com/2026/05/413782.html",
-        "published_date": "Thu, 07 May 2026 06:35:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897005"
-      },
-      "7a1b93e4a9c63e253b646615282587828f3921376835092d004ebf9958c6ad31": {
-        "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
-        "link": "https://www.qbitai.com/2026/05/413591.html",
-        "published_date": "Thu, 07 May 2026 02:46:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897006"
-      },
       "f1c8e71b95f5611c46d6bf026e37e6987979fd394a37689b8da505086ec153c6": {
         "title": "2026-05-07日刊",
         "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
@@ -8506,7 +8500,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-06T07:44:45.255002",
+    "Technology": "2026-06-06T09:58:34.922902",
     "Finance": "2026-06-06T07:44:45.300443",
     "Ai": "2026-06-06T07:44:45.148077"
   }
