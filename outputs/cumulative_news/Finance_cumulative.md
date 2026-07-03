@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 23:58
+**最后更新时间**: 2026-07-03 13:59
+
+---
+
+## 🆕 最新更新 (2026-07-03 13:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stocks have delivered 8.7% a year since independence was declared in 1776](https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 13:52
+
+#### [‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?](https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 13:15
+
+#### [Micron was started by a few guys in an Idaho basement. How it rose to be at the center of the AI boom.](https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 12:00
+
+#### [Am I better off claiming Social Security early and investing the money, or delaying until age 70?](https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 12:00
+
+#### [A week of wild volatility for Korean stocks brought to a rousing finale by reports of Anthropic-Samsung deal](https://www.marketwatch.com/story/a-week-of-wild-volatility-for-korean-stocks-brought-to-a-rousing-finale-by-reports-of-anthropic-samsung-deal-b69f32c5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 11:49
+
+#### [Michael Burry makes a bearish bet against hot memory stock Micron: reports](https://www.marketwatch.com/story/michael-burry-makes-a-bearish-bet-against-hot-memory-stock-micron-reports-4c976262?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 11:16
+
+#### [Booze-free beer is no longer a punchline — and big brewers see a billion-dollar opportunity](https://www.marketwatch.com/story/booze-free-beer-is-no-longer-a-punchline-and-big-brewers-see-a-billion-dollar-opportunity-407c8771?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How crowds become stupider](https://www.ft.com/content/927dde1c-4476-4d22-8fa0-f546506ecd6d)
+**发布时间**: 2026-07-03 12:40
+
+#### [Monaco bomb suspect is a woman from Ukraine](https://www.ft.com/content/5fdf37f2-9217-4490-beaa-7e1baab4b94c)
+**发布时间**: 2026-07-03 12:07
+
+#### [This is nuts upon nuts. When’s the crash?](https://www.ft.com/content/8e9337f8-9191-48e9-9289-a8defda89431)
+**发布时间**: 2026-07-03 10:40
+
+#### [Albania’s flamingos meet the Trump family bulldozers](https://www.ft.com/content/55fe7ae6-c973-4382-a0b5-2cbdbcdc587b)
+**发布时间**: 2026-07-03 09:55
+
+#### [Anthropic moves to close loopholes that allow Chinese access to Claude](https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60)
+**发布时间**: 2026-07-03 04:00
+
+#### [How Jamie Dimon’s long succession race claimed another victim](https://www.ft.com/content/4ab13dd4-b71d-45cf-bc44-8b17cb0ee8e0)
+**发布时间**: 2026-07-03 04:00
+
+#### [Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’](https://www.ft.com/content/1d3da122-c043-4e51-bb95-ac68d41ab838)
+**发布时间**: 2026-07-03 04:00
+
+#### [World Cup goals spree by star players proves costly for gambling companies](https://www.ft.com/content/fb195a38-0717-4745-bf69-4b3cdbee31fe)
+**发布时间**: 2026-07-03 04:00
+
+#### [England-Mexico ticket prices soar to $36,000](https://www.ft.com/content/c40423b9-d469-45e0-bb1f-7a543c74f376)
+**发布时间**: 2026-07-03 04:00
+
+#### [UK finds lost US Declaration of Independence copy after 250 years](https://www.ft.com/content/4fd21282-82f3-443c-9270-c1efb401fe97)
+**发布时间**: 2026-07-02 23:01
 
 ---
 
