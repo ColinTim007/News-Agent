@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-03 13:57
+**最后更新时间**: 2026-07-03 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-03 23:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [谷歌为什么做不好「AI 编程」？](https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html)
+**发布时间**: 2026-07-03 22:16
+
+#### [独家丨猛士下款新车将进军泛越野，预计售价20-25万](https://www.leiphone.com/category/transportation/UQkXlB0ztZlFxtta.html)
+**发布时间**: 2026-07-03 21:04
+
+#### [生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代](https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html)
+**发布时间**: 2026-07-03 20:48
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部](https://www.qbitai.com/2026/07/442746.html)
+**发布时间**: 2026-07-03 14:28
 
 ---
 
