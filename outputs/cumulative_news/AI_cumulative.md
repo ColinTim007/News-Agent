@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-19 07:23
+**最后更新时间**: 2026-07-19 09:46
+
+---
+
+## 🆕 最新更新 (2026-07-19 09:46)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新](https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html)
+**发布时间**: 2026-07-19 15:21
+
+#### [中科闻歌WAIC2026发布业界首个全系决策智能产品](https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html)
+**发布时间**: 2026-07-19 14:44
+
+#### [苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径](https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html)
+**发布时间**: 2026-07-19 14:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不换模型，效果提升104%！上海AI Lab让Harness也能自进化了](https://www.qbitai.com/2026/07/454441.html)
+**发布时间**: 2026-07-19 07:00
+
+#### [供需失衡的窗口期里，商汤大装置把国产算力做成了正毛利生意](https://www.qbitai.com/2026/07/454426.html)
+**发布时间**: 2026-07-19 06:56
+
+#### [WAIC 2026｜从纳米抗体到环肽：分子之心30天两度验证AI底层设计力，筑牢生物经济“多模态新基建”](https://www.qbitai.com/2026/07/454423.html)
+**发布时间**: 2026-07-19 06:40
+
+#### [以场景为牵引，推动工业AI从单点实效迈向生产力跃迁](https://www.qbitai.com/2026/07/454419.html)
+**发布时间**: 2026-07-19 06:34
 
 ---
 
