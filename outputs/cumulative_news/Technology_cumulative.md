@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 07:32
+**最后更新时间**: 2026-07-21 23:52
+
+---
+
+## 🆕 最新更新 (2026-07-21 23:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P](https://www.tmtpost.com/8074503.html)
+**发布时间**: 2026-07-22 07:20
+
+#### [从PVC地板到存储测试，爱丽家居豪赌半年估值飙升40%的欧康诺 | 并购一线](https://www.tmtpost.com/8074487.html)
+**发布时间**: 2026-07-21 21:33
+
+#### [*ST亿晶预重整的算盘与隐患：7.76亿投资款“在路上”，接盘方控制权未定](https://www.tmtpost.com/8074007.html)
+**发布时间**: 2026-07-21 21:32
+
+#### [AI重构海尔智家](https://www.tmtpost.com/8072131.html)
+**发布时间**: 2026-07-21 21:00
+
+#### [印奇的手机，阶跃星辰的赌局](https://www.tmtpost.com/8071509.html)
+**发布时间**: 2026-07-21 19:05
+
+#### [飞天半年两次提价，茅台在急什么？](https://www.tmtpost.com/8072438.html)
+**发布时间**: 2026-07-21 19:05
+
+#### [超200家企业同台的WAIC，机器人距离可复制还有多远？](https://www.tmtpost.com/8073293.html)
+**发布时间**: 2026-07-21 19:05
+
+#### [没有AI味的AI音乐来了，Mureka V9.5交出满分音乐答卷](https://www.tmtpost.com/8073797.html)
+**发布时间**: 2026-07-21 18:51
+
+#### [预售破万单，市值蒸发超200亿：情感机器人遭遇“监管与量产”双重淬火](https://www.tmtpost.com/8073975.html)
+**发布时间**: 2026-07-21 18:40
+
+#### [茅台2026年两连涨：这不是品牌力，而是一场迟到的“追认”](https://www.tmtpost.com/8071770.html)
+**发布时间**: 2026-07-21 18:05
+
+#### [男人的生意不好做，广药要赚女人的钱](https://www.tmtpost.com/8074116.html)
+**发布时间**: 2026-07-21 17:55
+
+#### [诺兰强势归来，《奥德赛》创多项纪录](https://www.tmtpost.com/8073989.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [西瓜，真的几分钱一斤了？](https://www.tmtpost.com/8073722.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [安踏跑得最快的，已经不是安踏和FILA](https://www.tmtpost.com/8073976.html)
+**发布时间**: 2026-07-21 17:54
+
+#### [具身机器人进家，只差一套“情感世界模型”](https://www.tmtpost.com/8073768.html)
+**发布时间**: 2026-07-21 17:22
+
+#### [美敦力重夺第一、雅培暴涨、强生憋大招：全球心血管巨头Q2财报大揭秘](https://www.tmtpost.com/8072379.html)
+**发布时间**: 2026-07-21 17:22
+
+#### [不到一成赔付额，禾赛和图达通都没赢痛快](https://www.tmtpost.com/8073832.html)
+**发布时间**: 2026-07-21 17:20
+
+#### [千问进苹果，大模型开始「隐身」](https://www.tmtpost.com/8073933.html)
+**发布时间**: 2026-07-21 17:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [营收破百亿后，平头哥把目光投向芯片之外](https://www.infoq.cn/article/a0vMjiamJhl9L91g9M5H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 21:20
+
+#### [GOAI 世界人工智能开源大赛四大赛道正式发布](https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 20:17
+
+#### [通往数据主权之路：本地优先计算面临的挑战与优先事项](https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 17:21
+
+#### [Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”](https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 16:14
+
+#### [OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界](https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 15:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车](https://sspai.com/post/112582)
+**发布时间**: 2026-07-21 17:00
+
+#### [装上 Fedora 的 Surface Pro：一台老设备的新可能](https://sspai.com/post/112200)
+**发布时间**: 2026-07-21 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 18 个 Kimi K3 外网爆火的案例，太令人惊艳了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535500&idx=1&sn=12e52793d8216ea781d421fd728640c3)
+**发布时间**: 2026-07-21 13:00
 
 ---
 
