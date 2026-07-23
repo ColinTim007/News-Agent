@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-23 10:40
+**最后更新时间**: 2026-07-23 23:54
+
+---
+
+## 🆕 最新更新 (2026-07-23 23:54)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Best practices for applying Amazon Bedrock Guardrails to code generation workflows](https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/)
+**发布时间**: 2026-07-23 23:03
+
+#### [Evaluating AI Agents: A production blueprint with Strands and AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/)
+**发布时间**: 2026-07-23 17:00
+
+#### [Building trade assistant: How Jefferies optimized front office trading operations with AI](https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/)
+**发布时间**: 2026-07-23 16:42
+
+#### [Building multi-Region visualizations with Highcharts in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/)
+**发布时间**: 2026-07-23 16:40
+
+#### [Detecting silent agent failures with Amazon Bedrock AgentCore optimization](https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/)
+**发布时间**: 2026-07-23 16:38
+
+#### [Agentic retrieval for Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-07-23 16:30
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“野生测评”造谣拉踩，伤害的不只是车企](https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html)
+**发布时间**: 2026-07-23 17:58
+
+#### [花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」](https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html)
+**发布时间**: 2026-07-23 17:34
+
+#### [快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费](https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html)
+**发布时间**: 2026-07-23 17:30
+
+#### [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html)
+**发布时间**: 2026-07-23 14:30
+
+#### [全球已有1000万中小企业在用Accio Work做生意](https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html)
+**发布时间**: 2026-07-23 13:50
+
+#### [专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026](https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html)
+**发布时间**: 2026-07-23 13:34
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/)
+**发布时间**: 2026-07-23 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [智能体政策新闻相关背景和简要解读](https://www.qbitai.com/2026/07/457787.html)
+**发布时间**: 2026-07-23 11:08
+
+#### [机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」](https://www.qbitai.com/2026/07/457698.html)
+**发布时间**: 2026-07-23 08:23
+
+#### [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.qbitai.com/2026/07/457694.html)
+**发布时间**: 2026-07-23 06:58
+
+#### [超越π0，中国团队用1B参数模型登顶具身智能榜单](https://www.qbitai.com/2026/07/457537.html)
+**发布时间**: 2026-07-23 06:36
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT projects selected for funding under US Department of Energy’s Genesis Mission](https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723)
+**发布时间**: 2026-07-23 08:00
 
 ---
 
