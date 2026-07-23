@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-23 07:28
+**最后更新时间**: 2026-07-23 10:40
+
+---
+
+## 🆕 最新更新 (2026-07-23 10:40)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)
+**发布时间**: 2026-07-23 00:00
 
 ---
 
