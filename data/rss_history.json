@@ -9193,6 +9193,18 @@
         "link": "http://www.geekpark.net/news/368277",
         "published_date": "Sun, 02 Aug 2026 09:13:00 GMT",
         "first_seen": "2026-08-02T07:30:35.971170"
+      },
+      "42a649093ce6f537551bceecf19e112f620ef5d26870eeaec3b7a30cffccb6a5": {
+        "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+        "link": "https://sspai.com/post/112843",
+        "published_date": "Sun, 02 Aug 2026 14:38:00 GMT",
+        "first_seen": "2026-08-02T09:52:20.602238"
+      },
+      "098c66fb7f9d9e1ff2f078b5a8462904678bc01fffc1b003c6f4c15ea6a8ea34": {
+        "title": "这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535704&idx=1&sn=623306f6ea42ed3afa182ecf9c5a3e3d",
+        "published_date": "Sun, 02 Aug 2026 10:13:00 GMT",
+        "first_seen": "2026-08-02T09:52:20.602248"
       }
     },
     "Finance": {
@@ -14025,6 +14037,12 @@
         "link": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
         "published_date": "Sun, 02 Aug 2026 02:00:00 GMT",
         "first_seen": "2026-08-02T07:30:36.034460"
+      },
+      "5c100eaf68c85b1053097afc671263e8cf89b6ec2bc52467278a4742e6ee8d3f": {
+        "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
+        "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 08:45:00 GMT",
+        "first_seen": "2026-08-02T09:52:20.660795"
       }
     },
     "Ai": {
@@ -18454,8 +18472,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-02T07:30:35.971172",
-    "Finance": "2026-08-02T07:30:36.034461",
+    "Technology": "2026-08-02T09:52:20.602250",
+    "Finance": "2026-08-02T09:52:20.660802",
     "Ai": "2026-08-02T07:30:35.854985"
   }
 }
