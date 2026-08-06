@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-06 07:54
+**最后更新时间**: 2026-08-06 10:31
+
+---
+
+## 🆕 最新更新 (2026-08-06 10:31)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速](https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html)
+**发布时间**: 2026-08-06 14:29
+
+#### [蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」](https://www.leiphone.com/category/academic/E6Goi7fB66O6a4gN.html)
+**发布时间**: 2026-08-06 14:24
+
+#### [对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」](https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html)
+**发布时间**: 2026-08-06 14:22
+
+#### [华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」](https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html)
+**发布时间**: 2026-08-06 14:19
+
+#### [独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖](https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html)
+**发布时间**: 2026-08-06 13:58
+
+#### [独家丨从飞书火山整合，看阿里「云钉一体」踩过的坑](https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html)
+**发布时间**: 2026-08-06 13:58
+
+#### [把512 GiB闪存搬到xPU旁边，HBF能打破推理内存墙？](https://www.leiphone.com/category/chips/P0IOl7W4ZU6ERUnt.html)
+**发布时间**: 2026-08-06 13:55
+
+#### [“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统](https://www.leiphone.com/category/industrynews/azZ6sWNeflKLM9SD.html)
+**发布时间**: 2026-08-06 11:58
+
+#### [比亚迪助力香港足球文化节 与足球少年一起见证曼城国米巅峰对决](https://www.leiphone.com/category/industrynews/tZSQBv84UUTiC6Xx.html)
+**发布时间**: 2026-08-06 11:27
+
+#### [滴滴旗下99携手巴西领先租车企业Movida，共建绿色出行生态](https://www.leiphone.com/category/industrynews/f2V1P6CeMXNjyvSG.html)
+**发布时间**: 2026-08-06 11:06
+
+#### [国内首个，千问办公通过中国信通院办公智能体能力评估](https://www.leiphone.com/category/industrynews/w1PvSaIjvOmbN6ak.html)
+**发布时间**: 2026-08-06 10:37
+
+#### [都叫3D芯片，为什么是三门不同的生意？](https://www.leiphone.com/category/chips/ljl2DOaEEwaMbzBk.html)
+**发布时间**: 2026-08-06 09:00
+
+#### [长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿](https://www.leiphone.com/category/zaobao/aMdQoqYpcE7D7eWa.html)
+**发布时间**: 2026-08-06 08:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [没有人靠段子永载GitHub，除非谷歌姐夫](https://www.qbitai.com/2026/08/467447.html)
+**发布时间**: 2026-08-06 08:02
+
+#### [Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一](https://www.qbitai.com/2026/08/467444.html)
+**发布时间**: 2026-08-06 07:43
+
+#### [这人谁啊？哈萨比斯都让位了](https://www.qbitai.com/2026/08/467274.html)
+**发布时间**: 2026-08-06 06:17
+
+#### [MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”](https://www.qbitai.com/2026/08/467270.html)
+**发布时间**: 2026-08-06 05:36
+
+#### [超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地](https://www.qbitai.com/2026/08/467262.html)
+**发布时间**: 2026-08-06 05:29
+
+#### [突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿](https://www.qbitai.com/2026/08/467196.html)
+**发布时间**: 2026-08-05 23:52
 
 ---
 
