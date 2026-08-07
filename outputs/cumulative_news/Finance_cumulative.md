@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 10:33
+**最后更新时间**: 2026-08-07 07:43
+
+---
+
+## 🆕 最新更新 (2026-08-07 07:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [ByteDance targets mega AI model nearing Anthropic’s Mythos](https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:36
+
+#### [‘It’s now or never.’ Is the EU serious about letting in new members?](https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [Warsh is being misread](https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [Parents haggle with private schools over fees as VAT pushes up costs](https://www.ft.com/content/30fe8c0a-5022-46d4-be53-101c4af0185e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [Meta told to pay nearly $1bn penalty over social media harm to children](https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 02:57
+
+#### [US euro sale to prop up yen blindsided ECB](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 01:50
+
+#### [Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 21:40
+
+#### [Jane Street in talks to shift its $11bn in debt to investors including Pimco](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 20:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Micron’s stock falls but is spared the worst of the memory-chip selloff](https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 02:35
+
+#### [‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?](https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 02:00
+
+#### [Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.](https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 00:31
+
+#### [As Alphabet burns through cash on AI, it’s turning back to the bond market](https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 23:14
+
+#### [Trade Desk shares tumble on earnings miss and weak outlook](https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 22:59
+
+#### [Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales](https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 22:58
+
+#### [Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?](https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 20:57
 
 ---
 

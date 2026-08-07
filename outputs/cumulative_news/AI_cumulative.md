@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-06 10:31
+**最后更新时间**: 2026-08-07 07:41
+
+---
+
+## 🆕 最新更新 (2026-08-07 07:41)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山](https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html)
+**发布时间**: 2026-08-07 11:28
+
+#### [汪峰：我现在买衣服，80%都是淘宝](https://www.leiphone.com/category/industrynews/FqaTMocwsNfeul2p.html)
+**发布时间**: 2026-08-07 11:12
+
+#### [阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频](https://www.leiphone.com/category/industrynews/Wp4SCQ5wu1Lbhtr1.html)
+**发布时间**: 2026-08-07 10:24
+
+#### [2个月做到3000单，内贸卖家如何借「轻出海」快速打开跨境生意？](https://www.leiphone.com/category/industrynews/XnHMK4DKZgEQBCZs.html)
+**发布时间**: 2026-08-07 09:45
+
+#### [150.8元/股！宇树科技超百名员工参与IPO「盛宴」，一批90后千万富豪或将诞生；DeepSeek拟上调API服务定价；字节拟训练超5万亿参数大模型](https://www.leiphone.com/category/zaobao/jTnxUYfadwnDJtNd.html)
+**发布时间**: 2026-08-07 08:32
+
+#### [GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟](https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html)
+**发布时间**: 2026-08-06 21:47
+
+#### [苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？](https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html)
+**发布时间**: 2026-08-06 21:45
+
+#### [Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山](https://www.leiphone.com/category/ai/woyyD9TFUP2pnDOC.html)
+**发布时间**: 2026-08-06 21:40
+
+#### [频发高温故障！特斯拉FSD升级事故，看清中美智驾监管根本差异](https://www.leiphone.com/category/industrynews/ZpRxn4ogBqvkrTiE.html)
+**发布时间**: 2026-08-06 20:29
+
+#### [黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设](https://www.leiphone.com/category/industrynews/8FCGhggf0AxRU8Pa.html)
+**发布时间**: 2026-08-06 20:16
+
+#### [当无人驾驶进入城市竞赛时代：深圳与洛杉矶的隔空对弈](https://www.leiphone.com/category/transportation/zfSvuuvk1hns4lQ9.html)
+**发布时间**: 2026-08-06 19:55
+
+#### [李飞飞、Yilun Du罕见联手：别给机器人建大脑了，直接偷视频模型的｜GAIR Paper 115](https://www.leiphone.com/category/ai/CmG0TpbUIhu1EHkl.html)
+**发布时间**: 2026-08-06 18:42
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-07日刊](https://hex2077.dev/docs/2026-08/2026-08-07/)
+**发布时间**: 2026-08-07 10:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI批量轰炸苹果bug赏金计划，审核团队已下线](https://www.qbitai.com/2026/08/466738.html)
+**发布时间**: 2026-08-07 06:21
+
+#### [openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境](https://www.qbitai.com/2026/08/468305.html)
+**发布时间**: 2026-08-07 06:18
+
+#### [AI圈功能狂卷，付费寥寥，Keep正在试一条新路](https://www.qbitai.com/2026/08/467878.html)
+**发布时间**: 2026-08-07 05:30
+
+#### [阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频](https://www.qbitai.com/2026/08/467877.html)
+**发布时间**: 2026-08-07 03:23
+
+#### [刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了](https://www.qbitai.com/2026/08/467879.html)
+**发布时间**: 2026-08-07 03:23
+
+#### [蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作](https://www.qbitai.com/2026/08/467871.html)
+**发布时间**: 2026-08-07 03:08
+
+#### [AI SSD：大模型推理的存储范式转移](https://www.qbitai.com/2026/08/467840.html)
+**发布时间**: 2026-08-07 02:56
+
+#### [PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商](https://www.qbitai.com/2026/08/467834.html)
+**发布时间**: 2026-08-07 01:39
+
+#### [智元下架了首席科学家罗剑岚](https://www.qbitai.com/2026/08/467730.html)
+**发布时间**: 2026-08-07 01:25
+
+#### [Show me《指环王》！卡帕西强推大模型评测新基准](https://www.qbitai.com/2026/08/467663.html)
+**发布时间**: 2026-08-07 01:15
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Securing AI agents with temporal policies in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-06 18:57
+
+#### [Configure rate limits for AI traffic on AgentCore gateway](https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/)
+**发布时间**: 2026-08-06 17:50
+
+#### [Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/)
+**发布时间**: 2026-08-06 16:43
+
+#### [Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch](https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/)
+**发布时间**: 2026-08-06 16:30
+
+#### [Enforcing data residency with single-Region Claude Code on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/)
+**发布时间**: 2026-08-06 16:21
+
+#### [Agent Skills for Automated Reasoning policies in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/)
+**发布时间**: 2026-08-06 16:12
+
+#### [Building an agentic app deployer with Amazon Bedrock and AWS Lambda](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/)
+**发布时间**: 2026-08-06 16:11
+
+#### [LLM optimization integration for Amazon SageMaker Python SDK](https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/)
+**发布时间**: 2026-08-06 16:08
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [GeForce NOW Shakes Up August With 26 New Games](https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/)
+**发布时间**: 2026-08-06 13:00
+
+#### [Into the Omniverse: How Open World Models Push the Frontier of Physical AI](https://blogs.nvidia.com/blog/open-world-models-physical-ai/)
+**发布时间**: 2026-08-06 13:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten)
+**发布时间**: 2026-08-06 00:00
 
 ---
 

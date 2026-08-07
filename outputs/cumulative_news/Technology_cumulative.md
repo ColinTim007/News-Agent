@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 10:33
+**最后更新时间**: 2026-08-07 07:43
+
+---
+
+## 🆕 最新更新 (2026-08-07 07:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设](https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 15:18
+
+#### [最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案](https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 15:00
+
+#### [DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税](https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 13:33
+
+#### [HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复](https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验](https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [DevEco CLI 快速入门：让 AI Agent 更懂 HarmonyOS 应用开发](https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:53
+
+#### [DNS 战场再起变化：Cloudflare 开始挑战 AWS Route 53](https://www.infoq.cn/article/B2JUs2zafHE0fE0AYaNY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 11:28
+
+#### [HBM 不够用了，AI SSD 迎来爆发前夜](https://www.infoq.cn/article/sQW5F63ZP4QMyhlWAzQi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:38
+
+#### [AI 视频降本的三种做法，只有一种不牺牲画质](https://www.infoq.cn/article/HqthsfSNK4bQYqOSh6Ni?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:29
+
+#### [从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳](https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 10:00
+
+#### [Cloudflare推出用于自治Worker部署的临时账户](https://www.infoq.cn/article/6q0ACAlcmf7vmpIcJb09?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 09:28
+
+#### [角色边界重塑，全栈取代分工：快手AI生产力体系成形](https://www.infoq.cn/article/Gj6j8QtZhgeuqedeUEft?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-06 18:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差](https://www.tmtpost.com/8095185.html)
+**发布时间**: 2026-08-07 15:03
+
+#### [维信诺的边界实验：当OLED大厂决定走进ChinaJoy](https://www.tmtpost.com/8095080.html)
+**发布时间**: 2026-08-07 13:44
+
+#### [3.6万家瑞幸，正在“围剿”瑞幸](https://www.tmtpost.com/8094431.html)
+**发布时间**: 2026-08-07 12:35
+
+#### [苹果压价，被长鑫拒绝了](https://www.tmtpost.com/8094412.html)
+**发布时间**: 2026-08-07 12:35
+
+#### [贝恩资本接盘贡茶](https://www.tmtpost.com/8095028.html)
+**发布时间**: 2026-08-07 12:33
+
+#### [忙着搞钱的智元，把罗剑岚弄丢了](https://www.tmtpost.com/8094310.html)
+**发布时间**: 2026-08-07 11:39
+
+#### [实测腾讯WorkBuddy：能力及格，但生态真香](https://www.tmtpost.com/8094441.html)
+**发布时间**: 2026-08-07 11:36
+
+#### [China's Startup X2 Robotics Files for a HK IPO, Third-Generation Robot Will Hit the Market in Q4](https://www.tmtpost.com/8094916.html)
+**发布时间**: 2026-08-07 10:08
+
+#### [第一批做FDE的人，离高薪差远了](https://www.tmtpost.com/8094851.html)
+**发布时间**: 2026-08-07 09:32
+
+#### [DeepSeek V4 Flash低价斩杀线背后：当梁文锋也卷不动算力账单（含实测）](https://www.tmtpost.com/8094216.html)
+**发布时间**: 2026-08-07 09:32
+
+#### [零食量贩步入精耕时代](https://www.tmtpost.com/8094374.html)
+**发布时间**: 2026-08-07 09:28
+
+#### [谷歌AI大地震：一天失去四位核心科学家，4.6万亿美元巨头的重构之路](https://www.tmtpost.com/8094778.html)
+**发布时间**: 2026-08-07 08:34
+
+#### [Edge AI Daily 早报（8月7日）](https://www.tmtpost.com/8094750.html)
+**发布时间**: 2026-08-07 08:24
+
+#### [【钛晨报】工信部印发民爆行业"十五五"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元](https://www.tmtpost.com/8094590.html)
+**发布时间**: 2026-08-07 07:20
+
+#### [Autonomous Driving Rebuilds Itself Around Models That Predict the Physical World](https://www.tmtpost.com/8094739.html)
+**发布时间**: 2026-08-07 07:12
+
+#### [股东精准减持1.4亿后，业绩重压下魅视科技紧急跨界磷化铟](https://www.tmtpost.com/8094513.html)
+**发布时间**: 2026-08-06 20:55
+
+#### [宇树600亿上市，具身赛道有了定价之锚](https://www.tmtpost.com/8094474.html)
+**发布时间**: 2026-08-06 20:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
+**发布时间**: 2026-08-07 10:15
+
+#### [派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
+**发布时间**: 2026-08-07 08:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 首款 AI 硬件曝光；DeepSeek 拟上调 API 服务定价；曝字节拟训练超 5 万亿超大参数模型｜极客早知道](http://www.geekpark.net/news/368504)
+**发布时间**: 2026-08-07 08:18
+
+#### [对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场](http://www.geekpark.net/news/368503)
+**发布时间**: 2026-08-06 20:52
 
 ---
 
