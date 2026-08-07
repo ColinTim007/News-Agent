@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 07:43
+**最后更新时间**: 2026-08-07 08:50
+
+---
+
+## 🆕 最新更新 (2026-08-07 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The curious case of the Japanese government bond yields](https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6)
+**发布时间**: 2026-08-07 05:00
+
+#### [Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 21:40
+
+#### [Google seeks a sharper focus in AI after Hassabis move](https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 16:55
 
 ---
 

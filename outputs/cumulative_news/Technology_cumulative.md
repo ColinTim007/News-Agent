@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 07:43
+**最后更新时间**: 2026-08-07 08:50
+
+---
+
+## 🆕 最新更新 (2026-08-07 08:50)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力](https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 16:25
+
+#### [从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索](https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-07 16:12
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [闪迪比英伟达还赚钱](https://www.tmtpost.com/8094460.html)
+**发布时间**: 2026-08-07 16:16
+
+#### [DeepSeek预告API涨价，AI低价红利落幕](https://www.tmtpost.com/8094414.html)
+**发布时间**: 2026-08-07 16:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [\[限时优惠\] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
+**发布时间**: 2026-08-07 15:39
 
 ---
 

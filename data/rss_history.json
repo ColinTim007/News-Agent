@@ -9661,6 +9661,36 @@
         "link": "http://www.geekpark.net/news/368503",
         "published_date": "Thu, 06 Aug 2026 20:52:00 GMT",
         "first_seen": "2026-08-07T07:43:43.050641"
+      },
+      "6e6d4156700eaec688bcba50126543bd3abc8ed9f3d30a28f608efffa1166030": {
+        "title": "Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力",
+        "link": "https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 16:25:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.257952"
+      },
+      "1d68289b9287e3f3f8930b56d1dc6bb7849c5ea479701bc84bbe3fc98d361ce7": {
+        "title": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "link": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 16:12:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.257960"
+      },
+      "61c46a67546a679d9b2cd7b02a61c93eca883ddb9c070c3e2529f1f33bbecf28": {
+        "title": "闪迪比英伟达还赚钱",
+        "link": "https://www.tmtpost.com/8094460.html",
+        "published_date": "Fri, 07 Aug 2026 16:16:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.257962"
+      },
+      "ad38eec995f3b928b7bb21adc40c31d3854fbda467fbfd2c4dbca74c319e06b9": {
+        "title": "DeepSeek预告API涨价，AI低价红利落幕",
+        "link": "https://www.tmtpost.com/8094414.html",
+        "published_date": "Fri, 07 Aug 2026 16:16:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.257964"
+      },
+      "8f3f8e0798fc3d254c2d0179d5f008c94ca8c51dc501f36a32f1341b69e3f7b6": {
+        "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
+        "link": "https://sspai.com/post/113108",
+        "published_date": "Fri, 07 Aug 2026 15:39:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.257966"
       }
     },
     "Finance": {
@@ -18971,13 +19001,19 @@
         "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
         "published_date": "Thu, 06 Aug 2026 13:00:00 GMT",
         "first_seen": "2026-08-07T07:43:42.903138"
+      },
+      "1ad2c5002b3afc643b3a51b4de36a193f0549800095a04e41481eb5733df5a6f": {
+        "title": "IJCAI 2026 专访：机器人想学会人类动作，还差一座桥 | GAIR Paper 118",
+        "link": "https://www.leiphone.com/category/private/V2FQ6puH0pDdAKeI.html",
+        "published_date": "Fri, 07 Aug 2026 14:09:00 GMT",
+        "first_seen": "2026-08-07T08:50:28.164826"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-07T07:43:43.050643",
+    "Technology": "2026-08-07T08:50:28.257968",
     "Finance": "2026-08-07T07:43:43.153895",
-    "Ai": "2026-08-07T07:43:42.903140"
+    "Ai": "2026-08-07T08:50:28.164838"
   }
 }
