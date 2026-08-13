@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-12 23:37
+**最后更新时间**: 2026-08-13 06:10
+
+---
+
+## 🆕 最新更新 (2026-08-13 06:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [小马智行第四代无人重卡量产，未来三年实现「千辆运营」目标](https://www.leiphone.com/category/transportation/aCpxFOdunbeBESUD.html)
+**发布时间**: 2026-08-13 11:35
+
+#### [360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台](https://www.leiphone.com/category/industrynews/HvM51v44hA6xaezw.html)
+**发布时间**: 2026-08-13 11:17
+
+#### [为什么智能硬件出海龙头，集体押注这家AI原生达人营销平台？](https://www.leiphone.com/category/industrynews/D9k6TJVcep5GNzfC.html)
+**发布时间**: 2026-08-13 11:06
+
+#### [迷失秦岭后，00后毛榉做了个不一样的外骨骼](https://www.leiphone.com/category/weiwu/iQXIVkoDdPOX4yaI.html)
+**发布时间**: 2026-08-13 11:03
+
+#### [有人称中签宇树不敢发朋友圈：怕被嫉妒；DeepSeek V4 Pro正式版上线；美国政府设备重新允许使用TikTok！特朗普：我在TikTok一直霸榜第一](https://www.leiphone.com/category/zaobao/x8GFW1VA0hEwYPGe.html)
+**发布时间**: 2026-08-13 08:22
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-08-13日刊](https://hex2077.dev/docs/2026-08/2026-08-13/)
+**发布时间**: 2026-08-13 11:14
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [倒计时｜2026世界机器人大会主论坛议程发布！](https://www.qbitai.com/2026/08/471668.html)
+**发布时间**: 2026-08-13 05:10
+
+#### [刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5](https://www.qbitai.com/2026/08/471642.html)
+**发布时间**: 2026-08-13 03:54
+
+#### [360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台](https://www.qbitai.com/2026/08/471624.html)
+**发布时间**: 2026-08-13 03:11
+
+#### [引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布](https://www.qbitai.com/2026/08/471451.html)
+**发布时间**: 2026-08-13 03:00
+
+#### [《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵](https://www.qbitai.com/2026/08/471254.html)
+**发布时间**: 2026-08-12 13:46
+
+#### [Anthropic CEO整天神神叨叨，投资人受不了了](https://www.qbitai.com/2026/08/471162.html)
+**发布时间**: 2026-08-12 13:38
+
+#### [国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键](https://www.qbitai.com/2026/08/471049.html)
+**发布时间**: 2026-08-12 13:10
+
+#### [紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力](https://www.qbitai.com/2026/08/471030.html)
+**发布时间**: 2026-08-12 10:54
 
 ---
 
