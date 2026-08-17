@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-17 05:30
+**最后更新时间**: 2026-08-17 08:33
+
+---
+
+## 🆕 最新更新 (2026-08-17 08:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」](https://www.leiphone.com/category/private/xQX0laen8XifhvXD.html)
+**发布时间**: 2026-08-17 12:45
+
+#### [从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代](https://www.leiphone.com/category/private/aUhbF0DAHdEEWDDY.html)
+**发布时间**: 2026-08-17 12:41
+
+#### [中国电信领投，觅蜂科技再获数亿元融资，聚焦物理AI数据服务平台](https://www.leiphone.com/category/ai/b2S92lazehrBwmdP.html)
+**发布时间**: 2026-08-17 11:54
+
+#### [拼多多“免费送货入村”惠商便民：快递进村不空返，大蒜出村不再难](https://www.leiphone.com/category/industrynews/D8SpEoNfu0mSV3VV.html)
+**发布时间**: 2026-08-17 11:37
+
+#### [具身智能开始进入「下半场」：从会干活到干完活](https://www.leiphone.com/category/ai/KW4ChhveDJVpOjl1.html)
+**发布时间**: 2026-08-17 11:36
+
+#### [国内第一视角数据最早押注者，北大卢宗青：隐空间才是具身的路](https://www.leiphone.com/category/ai/cTpkd2xI7DZBdCRk.html)
+**发布时间**: 2026-08-17 11:31
+
+#### [裁员1600人！诺基亚计划关闭中国研发中心；DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍；Claude出现大规模服务故障](https://www.leiphone.com/category/zaobao/oRfuqgy8MLhvuQax.html)
+**发布时间**: 2026-08-17 08:32
 
 ---
 
